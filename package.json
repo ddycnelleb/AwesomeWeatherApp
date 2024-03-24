@@ -1,26 +1,61 @@
 {
-"name": "weso5me6pp",
-"version": "1.0.0",
-"description": "An amazing weather application that provides real-time weather updates and forecasts for any location. It offers a sleek user interface, intuitive navigation, and accurate weather data sourced from reliable providers",
-"main": "index.js",
-"scripts": {},
-"repository": {
-"type": "git",
-"url": "https://github.com/ddycnelleb/AwesomeWeatherApp.git"
-},
-"keywords": [
-"sample",
-"npm",
-"package"
-],
-"author": "ddycnelleb",
-"license": "MIT",
-"dependencies": {
-"lodash": "^4.17.21",
-"axios": "^0.21.1"
-},
-"peerDependencies": {
-"react": ">=16.8.0",
-"react-dom": ">=16.8.0"
-}
+  "name": "weso5me6pp",
+  "version": "2.1.5-alpha",
+  "description": "An amazing weather application that provides real-time weather updates and forecasts for any location. It offers a sleek user interface, intuitive navigation, and accurate weather data sourced from reliable providers",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddycnelleb/AwesomeWeatherApp.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "ddycnelleb",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "chalk": "^4.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "tea-green": "^3.2.0",
+    "tea-black": "^2.5.0",
+    "tea-oolong": "^1.8.0",
+    "tea-puerh": "^4.0.0",
+    "tea-matcha": "^2.3.0",
+    "tea-hojicha": "^1.6.0"
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "tea520": "^5.16.22",
+    "tea-lit": "^1.18.01",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "chalk": "^4.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.0"
+
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "webpack": "^5.65.0",
+    "babel-core": "^6.26.3",
+    "typescript": "^4.6.3",
+    "tea-jasmine": "^2.1.0",
+    "tea-earl-grey": "^1.5.0",
+    "tea-rooibos": "^3.0.0"
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "webpack": "^5.65.0",
+    "babel-core": "^6.26.3",
+    "typescript": "^4.6.3",
+    "eslint": "^8.7.0",
+    "jest": "^27.5.1"
+    "react": ">=16.8.0",
+  }
 }
