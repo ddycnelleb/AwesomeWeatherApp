@@ -1,6 +1,6 @@
 {
   "name": "weso5me6pp",
-  "version": "2.1.5-alpha",
+  "version": "2.1.5",
   "description": "An amazing weather application that provides real-time weather updates and forecasts for any location. It offers a sleek user interface, intuitive navigation, and accurate weather data sourced from reliable providers",
   "main": "index.js",
   "scripts": {},
